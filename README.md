@@ -1,4 +1,4 @@
-# JAVA-EXCEPTIONS-ASSISGNEMENT
+# JAVA-EXCEPTIONS-ASSIGNEMENT
 ### 1.` Difference between Checked and Unchecked Exceptions in Java:`
 - Checked Exceptions:These are exceptions checked during the compilation of the program. The programmer must handle these exceptions using a `try-catch` block or by specifying the `throws` keyword. Examples include:
 
